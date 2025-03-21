@@ -1,9 +1,9 @@
 {
   "platforms": ["apple", "android"],
   "apple": {
-    "modules": ["SQLiteModule"]
+    "modules": ["SpatialiteModule"]
   },
   "android": {
-    "modules": ["expo.modules.sqlite.SQLiteModule"]
+    "modules": ["expo.modules.spatialite.SpatialiteModule"]
   }
 }
